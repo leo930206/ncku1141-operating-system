@@ -1,0 +1,23 @@
+# Compiled Executables and Objects
+*.exe
+*.o
+*.out
+*.class
+
+# Logs and Temp files
+*.log
+*.tmp
+tempCodeRunnerFile.*
+
+# IDE, Environments and Caches
+cmake-build-debug/
+.idea/
+.vs/
+.vscode/
+__pycache__/
+node_modules/
+.venv/
+venv/
+
+# Secrets
+.env
